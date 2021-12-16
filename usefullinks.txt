@@ -2,3 +2,6 @@
 пример файлового менеджера - https://habr.com/ru/post/525976/
 также статья про файловый менеджер - https://habr.com/ru/post/226669/
 статья про простой эхо сервер - https://habr.com/ru/post/149077/
+
+
+https://myrusakov.ru/java-send-get-request-http-client.html /// Это про джаву и запросы
